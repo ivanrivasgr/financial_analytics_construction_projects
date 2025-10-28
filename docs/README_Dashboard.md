@@ -80,6 +80,22 @@ All models are stored in the `sql_models/` directory and feed the `modelo_flujo_
 
 ---
 
+---
+
+## 📈 Dashboard Documentation
+
+For a detailed view of the dashboards built in **Metabase**, including visuals, SQL model relationships, and calculation logic, check out the dedicated documentation below 👇  
+
+👉 [View Metabase Dashboard Documentation](docs/README_Dashboard.md)
+
+This section includes:
+- **💰 Total Income Widget** – shows aggregated inflows from financial transactions.  
+- **⚖️ Income vs Expense by Project** – compares project-level profitability.  
+- **📦 Quantity of Materials by Category** – visualizes material consumption and cost distribution.  
+
+All dashboards are directly connected to the SQL models stored in the `/sql_models/` folder and powered by processed data from `/data/cleaned/`.
+
+
 **Author:** [@ivanrivasgr](https://github.com/ivanrivasgr)  
 **Tooling:** Metabase, PostgreSQL, Excel (manual cleaning), GitHub  
 **Purpose:** Demonstrate model-driven dashboard design and data storytelling.
