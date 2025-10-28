@@ -14,20 +14,24 @@ To consolidate P&L (Profit and Loss) and Process data from multiple projects int
 
 ## 📁 Repository Structure
 
+## 📁 Repository Structure
+
+```text
 data/
-├── raw/ # Original CSV/XLSX files from accounting systems
-└── cleaned/ # Processed and standardized data sources
+ ├── raw/                  # Original CSV/XLSX files from accounting systems
+ └── cleaned/              # Processed and standardized data sources
 
 sql_models/
-├── full_invoices_lowe_by_project.sql
-├── model_financial_flow_details.sql
-└── model_financial_flow_consolidated.sql
+ ├── full_invoices_lowe_by_project.sql
+ ├── model_financial_flow_details.sql
+ └── model_financial_flow_consolidated.sql
 
 dashboards/
-└── screenshots/ # Visual examples of the Metabase dashboards
+ └── screenshots/          # Visual examples of the Metabase dashboards
 
 docs/
-└── Metabase - Demo.pdf # Overview of dashboard structure and widgets
+ └── Metabase - Demo.pdf   # Overview of dashboard structure and widgets
+
 
 
 ---
