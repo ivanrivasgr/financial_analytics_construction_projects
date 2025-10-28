@@ -14,8 +14,6 @@ To consolidate P&L (Profit and Loss) and Process data from multiple projects int
 
 ## 📁 Repository Structure
 
-## 📁 Repository Structure
-
 ```text
 data/
  ├── raw/                  # Original CSV/XLSX files from accounting systems
@@ -32,7 +30,7 @@ dashboards/
 docs/
  └── Metabase - Demo.pdf   # Overview of dashboard structure and widgets
 
-
+```
 
 ---
 
