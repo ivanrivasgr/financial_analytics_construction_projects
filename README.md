@@ -58,6 +58,6 @@ The final dashboards provide:
 ---
 
 ## 👤 Author
-**Iván Rivas**  
+**Ivan F Gruber**  
 Data Engineer | Business Intelligence Developer  
-📧 ivan.rivas00@gmail.com
+📧 ivanfgruber@gmail.com
